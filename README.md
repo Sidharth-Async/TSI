@@ -47,7 +47,7 @@ mvn spring-boot:run
 
 ### 3. Frontend (React)
 
-1. Navigate to the `frontend` folder.
+1. Navigate to the `traffic-optimizer-ui` repo:
 2. Install dependencies:
 ```bash
 npm install
